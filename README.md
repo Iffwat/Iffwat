@@ -133,9 +133,9 @@ A complete management system featuring:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 📧 Email: YOUR_EMAIL
-- 🌐 Portfolio: YOUR_WEBSITE
+- 💼 LinkedIn: www.linkedin.com/in/irsyad-iffwat
+- 📧 Email: irsyad.iffwat@gmail.com
+- 🌐 Portfolio: https://portfolio-three-orpin-x4p66uh4ov.vercel.app/
 
 ---
 
