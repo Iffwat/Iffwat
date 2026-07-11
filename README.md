@@ -87,7 +87,7 @@ A complete management system featuring:
 - STEM Education Systems
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -99,7 +99,7 @@ https://github-readme-stats-sigma-five.vercel.app/api?username=Iffwat&show_icons
 -->
 
 </p>
-
+-->
 ---
 
 ## 🔥 GitHub Streak
