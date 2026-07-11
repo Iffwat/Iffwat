@@ -92,7 +92,7 @@ A complete management system featuring:
 
 <p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iffwat&show_icons=true&theme=tokyonight)
+https://github-readme-stats-sigma-five.vercel.app/api?username=Iffwat&show_icons=true&theme=tokyonight
 
 <!--
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iffwat&layout=compact&theme=tokyonight"/>
