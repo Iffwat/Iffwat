@@ -86,20 +86,7 @@ A complete management system featuring:
 - IoT Monitoring Dashboard
 - STEM Education Systems
 
----
-<!--
-## 📊 GitHub Stats
 
-<p align="center">
-
-https://github-readme-stats-sigma-five.vercel.app/api?username=Iffwat&show_icons=true&theme=tokyonight
-
-<!--
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iffwat&layout=compact&theme=tokyonight"/>
--->
-
-</p>
--->
 ---
 
 ## 🔥 GitHub Streak
